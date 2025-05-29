@@ -29,6 +29,7 @@ print("Maior de idade")  # Erro de identação
 
 ---
 
+
 ## 🔠 2. O que é Indentação?
 
 Indentação é o **espaço ou tabulação** usada no início de uma linha para indicar que ela pertence a um bloco.  
@@ -57,6 +58,7 @@ print("Linha fora do if")
 
 ```python
 numero = 5
+
 
 if numero > 0:
     print("Número positivo")

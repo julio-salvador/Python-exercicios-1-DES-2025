@@ -3,7 +3,7 @@
 #  Se alguma tarefa estiver com o tempo de entrega negativo, deve-se exibir uma mensagem de 
 # erro e não somar o total.
 
-projetoX =  
+projetoX = int(input("Digite o tempo de prazo para o projeto X: "))
 
 
 
