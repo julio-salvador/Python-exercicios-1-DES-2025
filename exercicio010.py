@@ -3,3 +3,13 @@
 # Salário mensal acima de R$ 3.000,00
 # A parcela não pode ser maior que 35% do salário
 
+pagamento = float(input("Digite o pagamento recebido mensalmente: "))
+parcela = float(input("Digite a parcela do pagamento que está destinada ao financeiro:"))
+
+
+
+
+
+
+
+
