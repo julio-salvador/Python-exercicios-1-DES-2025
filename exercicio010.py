@@ -6,10 +6,10 @@
 pagamento = float(input("Digite o pagamento recebido mensalmente: "))
 parcela = float(input("Digite a parcela do pagamento que está destinada ao financeiro:"))
 
-
-
-
-
+if pagamento > 3.000 or parcela < 35:
+    print("O financiamento não pode ser efetuado.")
+else:
+    print("O financiamento pode ser efetuado.")
 
 
 
